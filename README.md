@@ -15,7 +15,7 @@ The **JABARI Precision Seeder Monitor** is an embedded system designed to evalua
 
 All metrics are served through a lightweight web dashboard hosted directly on the ESP32-S3 in **Access Point (AP) mode** — no router, no internet, and no external server required.
 
-This project was developed for the **IEEE YESIST12** innovation challenge under the precision agriculture category.
+This project was developed for the **IEEE YESIST12** innovation challenge under the Maker Fair category.
 
 ---
 
