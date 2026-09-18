@@ -139,12 +139,12 @@ The AP IP is **fixed** at `192.168.4.1` (configurable in the same file).
    ========================================
      NETWORK READY
    ========================================
-     WiFi SSID     : Jerry's A34
-     WiFi Password : Jerry321
+     WiFi SSID     : Precision Planter
+     WiFi Password : Jabari_2026
      Dashboard URL : http://192.168.4.1
    ========================================
    ```
-3. On your laptop or phone, connect to WiFi **`Jerry's A34`** (password: `Jerry321`)
+3. On your laptop or phone, connect to WiFi **`Precision Planter`** (password: `Jabari_2026`)
 4. Ignore the *"No Internet"* warning — this is a local AP
 5. Open a browser and go to **`http://192.168.4.1`**
 6. The dashboard loads instantly 🎉
