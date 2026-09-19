@@ -119,8 +119,8 @@ Board selection: **ESP32S3 Dev Module**
 Open the `.ino` file and edit the AP credentials near the top:
 
 ```cpp
-const char* ssid = "Jerry's A34";
-const char* password = "Jerry321";   // Must be ≥ 8 characters
+const char* ssid = "Precision Planter";
+const char* password = "Jabari_2026";   // Must be ≥ 8 characters
 ```
 
 The AP IP is **fixed** at `192.168.4.1` (configurable in the same file).
